@@ -1,0 +1,9 @@
+.random-block img{
+    margin: 0 30px;
+    height: 90%;
+}
+
+.errorMessage{
+    margin: 100px;
+    color: red;
+}
